@@ -2,6 +2,6 @@
 
 # Current about 1/4 of the way through the tutorial I am using.
 
-# SpringIn28Minutes is the project as it is organized in my application editor. 
+# in28MinutesDemo is the project as it is organized in my application editor. 
 
 # The zip file SpringZip can, I think, be imported into Eclipse as a Maven project.
