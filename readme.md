@@ -2,6 +2,6 @@
 
 # Current about 1/4 of the way through the tutorial I am using.
 
-# in28MinutesDemo is the project as it is organized in my application editor. 
+# SpringExtractFiles contains project files by section/topic
 
-# SpringZipFiles can, I think, be imported into Eclipse as a Maven project. (have not tested it)
+# SpringZipFiles can, I think, be imported into Eclipse as a Maven project for section 2. (have not tested it)
