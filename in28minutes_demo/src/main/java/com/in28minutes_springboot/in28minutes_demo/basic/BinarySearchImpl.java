@@ -1,6 +1,8 @@
 package com.in28minutes_springboot.in28minutes_demo.basic;
 
 import org.springframework.stereotype.Component;//	ctrl-1 to get this code
+import org.springframework.stereotype.Service;
+
 import ch.qos.logback.classic.Logger;
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
@@ -12,7 +14,7 @@ import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.Scope;
 
 //singleton (reuse bean), prototype (unique bean: @Scope with prototype)
-@Component
+@Service
 @Scope(ConfigurableBeanFactory.SCOPE_SINGLETON)//or singleton
 public class BinarySearchImpl {
 

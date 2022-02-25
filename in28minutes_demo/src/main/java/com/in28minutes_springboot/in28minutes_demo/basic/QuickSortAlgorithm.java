@@ -1,10 +1,11 @@
 package com.in28minutes_springboot.in28minutes_demo.basic;
 
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Primary;
 
-@Component
+@Service
 //@Primary  see step 12 + 13 Udemy videos
 @Qualifier("quick")
 public class QuickSortAlgorithm implements SortAlgorithm {
