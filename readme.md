@@ -4,4 +4,4 @@
 
 # in28MinutesDemo is the project as it is organized in my application editor. 
 
-# The zip file SpringZip can, I think, be imported into Eclipse as a Maven project.
+# SpringZipFiles can, I think, be imported into Eclipse as a Maven project. (have not tested it)
