@@ -4,4 +4,7 @@
 
 # SpringExtractFiles contains project files by section/topic
 
-# SpringZipFiles can, I think, be imported into Eclipse as a Maven project for section 2. (have not tested it)
+# SpringZipFiles can, I think, be imported into Eclipse as a Maven project for section 2. (have not tested it) This is my most complex project in Eclipse. 
+
+note to self: maybe recording a video of functionality would be useful and easier to look at + good for reviewing. 
+Not yet though. Want to go through a full example before using these skills to explore a topic/do lab.
