@@ -1,4 +1,4 @@
- # This repository contains code from a tutorial I was following along with. It is mostly practice/scrap code, but feel free to look through it regardless.
+ # This repository contains code from a tutorial I was studying. It is mostly practice/scrap code, but feel free to look through it regardless.
  
  Still need to see how to set up github in Eclipse so I can upload all relevant files for Maven project.
 
